@@ -26,6 +26,7 @@ Simulation results with unknown parameters case:
 
 
 [1] Wu, Haiwen, et al. "Distributed formation control of manipulators' end-effector with internal model-based disturbance rejection." arXiv preprint arXiv:2103.14595 (2021).
+
 [2] Freidovich, Leonid B., and Hassan K. Khalil. "Performance recovery of feedback-linearization-based designs." IEEE Transactions on Automatic Control 53.10 (2008): 2324-2334.
 
 
